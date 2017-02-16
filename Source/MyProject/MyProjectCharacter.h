@@ -1,4 +1,6 @@
 // Copyright 1998-2016 Epic Games, Inc. All Rights Reserved.
+
+// Kite C Feb 2017 - Testing Source Control
 #pragma once
 #include "GameFramework/Character.h"
 #include "MyProjectCharacter.generated.h"
